@@ -4,3 +4,7 @@ The system is designed to automate the process of generating appointments for mu
 Step 1: Generate appointments
 Step 2: Detect conflicts using function appointments_df
 Step 3: Generate reminders using function appointments_df
+
+
+# Source:
+This is a guided project by Mr. Mejbah Ahammad, AiQuest.
